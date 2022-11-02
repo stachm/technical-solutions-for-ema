@@ -1,0 +1,9 @@
+key,description
+not_ema,Item is not related to Ecological Momentary Assessment.
+not_ema_framework,"Item is related to EMA, but not a framework (e.g., paper or tutorial)."
+not_free,Item is not free to use (inappropriate license).
+not_on_premise,Item can’t be hosted on premise.
+update_gt_5y,Item was not updated in the last 5 years.
+duplicate,Item is a duplicate or mirror of a repository.
+qs_issues,Item isn’t ready for production usage.
+other,Item was not included. More information in the column reason_other.

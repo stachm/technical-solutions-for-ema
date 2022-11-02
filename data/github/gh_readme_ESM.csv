@@ -1,0 +1,39 @@
+repository.name,repository.full_name,repository.html_url,repository.description
+angular__cdk,esm-bundle/angular__cdk,https://github.com/esm-bundle/angular__cdk,ESM and SystemJS bundles for @angular/cdk
+esm_yaml,pgierz/esm_yaml,https://github.com/pgierz/esm_yaml,
+import-esm,fisker/import-esm,https://github.com/fisker/import-esm,Import ES Module in the safe way
+openmrs-esm-core,devemmm/openmrs-esm-core,https://github.com/devemmm/openmrs-esm-core,
+angular__platform-browser-dynamic,esm-bundle/angular__platform-browser-dynamic,https://github.com/esm-bundle/angular__platform-browser-dynamic,ESM and SystemJS bundles for @angular/platform-browser-dynamic
+rxjs,esm-bundle/rxjs,https://github.com/esm-bundle/rxjs,
+rafabernad,joeldenning/rafabernad,https://github.com/joeldenning/rafabernad,
+classnames,esm-bundle/classnames,https://github.com/esm-bundle/classnames,
+openmrs-esm-patient-management,devemmm/openmrs-esm-patient-management,https://github.com/devemmm/openmrs-esm-patient-management,
+markdown-it-emoji,joeldenning/markdown-it-emoji,https://github.com/joeldenning/markdown-it-emoji,
+install_editable_tools,denizural/install_editable_tools,https://github.com/denizural/install_editable_tools,
+esm-cjs-shim,cspotcode/esm-cjs-shim,https://github.com/cspotcode/esm-cjs-shim,
+esm-config-tostring-bug,CacheControl/esm-config-tostring-bug,https://github.com/CacheControl/esm-config-tostring-bug,
+esm-loader,direktspeed/esm-loader,https://github.com/direktspeed/esm-loader,Offers Cross Environment ESM Loading even from Strings is a Loader Construction Framework for Userland http import in nodejs supports remote url including node-resolve via rollup
+esm-hostagent,commoncriteria/esm-hostagent,https://github.com/commoncriteria/esm-hostagent,Protection Profile for Host Agent
+import-cjs-issue,mysticatea/import-cjs-issue,https://github.com/mysticatea/import-cjs-issue,
+taro-bug-demo2,shenX-2021/taro-bug-demo2,https://github.com/shenX-2021/taro-bug-demo2,Taro.redirectTo bug
+esm-nextjs-reproducable-error,martinratinaud/esm-nextjs-reproducable-error,https://github.com/martinratinaud/esm-nextjs-reproducable-error,Repo to reproduce error when importing an ES modules inside a custom server in nodeJS
+AwareESMHelper,tetujin/AwareESMHelper,https://github.com/tetujin/AwareESMHelper,A helper library for managing ESM configuration on AWARE Framework
+node-esm-linaria-repro,RanolP/node-esm-linaria-repro,https://github.com/RanolP/node-esm-linaria-repro,Linaria 4.1.2 is incompatible with Node v18 ESM
+esm-mock,rompetroll/esm-mock,https://github.com/rompetroll/esm-mock,example showing difficulties in mocking modules with esm loader
+esm-loaders,brev/esm-loaders,https://github.com/brev/esm-loaders,ESModule Loaders Monorepo
+hot-esm,vinsonchuong/hot-esm,https://github.com/vinsonchuong/hot-esm,
+ts-node-esm-bug,SimonSiefke/ts-node-esm-bug,https://github.com/SimonSiefke/ts-node-esm-bug,
+tsgo,toyobayashi/tsgo,https://github.com/toyobayashi/tsgo,A commandline tool for using TypeScript to write libraries and export API documentation
+source_vendor_import_map_fix_up,jimisaacs/source_vendor_import_map_fix_up,https://github.com/jimisaacs/source_vendor_import_map_fix_up,Temporary solution to fix up the generated vendor import map with a source import map.
+build-esm-project,gxlmyacc/build-esm-project,https://github.com/gxlmyacc/build-esm-project,a build command that transform js/jsx/images/styles with babel/postcss
+esm-edr,commoncriteria/esm-edr,https://github.com/commoncriteria/esm-edr,Protection Profile for Endpoint Detection and Response
+test-cli-modern,typhonjs-oclif-scratch/test-cli-modern,https://github.com/typhonjs-oclif-scratch/test-cli-modern,"Provides a modern test CLI for ESM changes to @oclif v2 against Node 12.20.0+, 14.13+, 15+"
+angular__upgrade,esm-bundle/angular__upgrade,https://github.com/esm-bundle/angular__upgrade,ESM and SystemJS bundles for @angular/upgrade
+esm-root-loader,aduth/esm-root-loader,https://github.com/aduth/esm-root-loader,ESM loader to import from the project root
+the-sample-of-module-bundler,hiroppy/the-sample-of-module-bundler,https://github.com/hiroppy/the-sample-of-module-bundler,You will know how to make a javascript bundler
+express-pg-esm-example,crayola-eater/express-pg-esm-example,https://github.com/crayola-eater/express-pg-esm-example,
+reproduceCasbinError,armr-dev/reproduceCasbinError,https://github.com/armr-dev/reproduceCasbinError,Reproduces an error Storybook is throwing when Casbin is imported
+father2,xiangfengsu/father2,https://github.com/xiangfengsu/father2,
+detective-esm,browserify/detective-esm,https://github.com/browserify/detective-esm,find es module dependencies [experimental]
+node-esm-sigsegv,demurgos/node-esm-sigsegv,https://github.com/demurgos/node-esm-sigsegv,
+esm_query_tester,aw-mfe/esm_query_tester,https://github.com/aw-mfe/esm_query_tester,Build and test McAfee ESM queries with a YAML template

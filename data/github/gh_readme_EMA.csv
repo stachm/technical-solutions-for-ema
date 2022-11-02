@@ -1,0 +1,85 @@
+repository.name,repository.full_name,repository.html_url,repository.description
+pytorch-diffusion,quickgrid/pytorch-diffusion,https://github.com/quickgrid/pytorch-diffusion,Implementation of diffusion models in pytorch for custom training.
+dema-rs,sabinchitrakar/dema-rs,https://github.com/sabinchitrakar/dema-rs,Double Exponential Moving Average (DEMA) implementation in Rust
+SMP2021-ECISA,myeclipse/SMP2021-ECISA,https://github.com/myeclipse/SMP2021-ECISA,SMP2021-ECISA 中文隐式情感分析评测第4名解决方案
+Forex-Expert-Advisor,juliach98/Forex-Expert-Advisor,https://github.com/juliach98/Forex-Expert-Advisor,Forex Expert Advisor for automation of analytical and trading processes based on strategy EMA (4+13+50) + Stochastic.
+ema,romulodl/ema,https://github.com/romulodl/ema,EMA (Exponential Moving Average) in php
+tradingview-pinescript-4-ma-lines-indicator,nguyentamgm/tradingview-pinescript-4-ma-lines-indicator,https://github.com/nguyentamgm/tradingview-pinescript-4-ma-lines-indicator,The base lines for forex trading in Pine Script
+ema-rs,sabinchitrakar/ema-rs,https://github.com/sabinchitrakar/ema-rs,Exponential Moving Average (EMA) implementation in Rust
+EMA_system,ZS-Yang-TW/EMA_system,https://github.com/ZS-Yang-TW/EMA_system,
+t3p-server,emanuelturtula/t3p-server,https://github.com/emanuelturtula/t3p-server,
+vdvae,openai/vdvae,https://github.com/openai/vdvae,"Repository for the paper ""Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images"""
+PivotOnEMA,TechRancher/PivotOnEMA,https://github.com/TechRancher/PivotOnEMA,Pivot On EMA is a Strategy I came up with to be used with ThinkorSwim:registered: platform. This Strategy uses 3 EMA and my Pivot RSI to give the user a buy long signal and or sell short signal.
+s-ema-john-simple-main-updated,AMIN-SUAAD/s-ema-john-simple-main-updated,https://github.com/AMIN-SUAAD/s-ema-john-simple-main-updated,Live link: https://fir-ema-john-simple-main-57df3.web.app/
+ema-js-parser,music-addressability/ema-js-parser,https://github.com/music-addressability/ema-js-parser,A generic parser in Typescript/JavaScript for Enhancing Music Notation Addressability (EMA) expressions
+sma,patharanordev/sma,https://github.com/patharanordev/sma,Calculate Simple Moving Average(SMA) to support client/server site
+EMA,Hazelsuko07/EMA,https://github.com/Hazelsuko07/EMA,
+NVDA_EMAs_crossover,davidpasini/NVDA_EMAs_crossover,https://github.com/davidpasini/NVDA_EMAs_crossover,Trading algorithm that places long positions when price is above the baseline EMA and the fast EMA crosses over the slow EMA. Position exits on a series of stoploss indicators
+Ema,carlosmateo89/Ema,https://github.com/carlosmateo89/Ema,An MVVM library to implement this architecture by an easy way in your app
+ema-timeout,jiamao/ema-timeout,https://github.com/jiamao/ema-timeout,使用ema算法来动态计算接口超时设定，柔性超时
+pytorch_ema,fadel/pytorch_ema,https://github.com/fadel/pytorch_ema,Tiny PyTorch library for maintaining a moving average of a collection of parameters.
+fin-calc,kunogi/fin-calc,https://github.com/kunogi/fin-calc,a tool lib calculates fin-indicators
+SuperEMA,TechRancher/SuperEMA,https://github.com/TechRancher/SuperEMA,"Super EMA is a ThinkorSwim:registered: platform script that combines three EMA. The 20 EMA, 50 EMA, and 100 EMA."
+oanda-bot-python,10mohi6/oanda-bot-python,https://github.com/10mohi6/oanda-bot-python,oanda-bot is a python library for automated trading bot with oanda rest api on Python 3.6 and above.
+Ema,m23ck/Ema,https://github.com/m23ck/Ema,Employee Management Alembo
+vptrade,vnpnh/vptrade,https://github.com/vnpnh/vptrade,vptrade is a technical indicators trading tools can be used to all instruments.
+org-roam-ema,JonathanReeve/org-roam-ema,https://github.com/JonathanReeve/org-roam-ema,Static web export for an org-roam directory. WIP. 
+ema,lezhnev74/ema,https://github.com/lezhnev74/ema,External memory app - allows one to quickly post and search text notes
+python-ema,derekjhyang/python-ema,https://github.com/derekjhyang/python-ema,
+MovingAverageClasses,pdanford/MovingAverageClasses,https://github.com/pdanford/MovingAverageClasses,Python 3 Classes to Calculate Moving Averages Iteratively
+test,chlwhdans12/test,https://github.com/chlwhdans12/test,
+CrowdSim,floristevito/CrowdSim,https://github.com/floristevito/CrowdSim,Repository holding all the contents in regard to thesis work for a Master of Science in Engineering and Policy Analysis at the Delft University of Technology.
+mackmd_tradebtc,kiwichuang/mackmd_tradebtc,https://github.com/kiwichuang/mackmd_tradebtc,
+Article.EMA.Java.ChainExpander,Refinitiv-API-Samples/Article.EMA.Java.ChainExpander,https://github.com/Refinitiv-API-Samples/Article.EMA.Java.ChainExpander,Created by Platform Services GitHub tool on Mon Mar 06 2017
+Supplypipe,danielboloc/Supplypipe,https://github.com/danielboloc/Supplypipe,Stock price extractor and signal generator
+Calculate-EMA,bluesnooker123/Calculate-EMA,https://github.com/bluesnooker123/Calculate-EMA,Share Price Monitoring Script in C#
+samurai,sirolf2009/samurai,https://github.com/sirolf2009/samurai,
+iocengine-stockindex,YanLongDong/iocengine-stockindex,https://github.com/YanLongDong/iocengine-stockindex,通达信指标转量化
+s22-ema,cs481-ekh/s22-ema,https://github.com/cs481-ekh/s22-ema,
+Stock-Trading-Helper,Jefflin413/Stock-Trading-Helper,https://github.com/Jefflin413/Stock-Trading-Helper,This project aims to develop a web application that is useful and convenient for people who want to do algorithmic trading. The features include a real-time stock chart with multiple adjustable options; a trading strategy setting function which allows user to arbitrarily compose provided indicator frameworks to set multiple automated trading programs; a backtesting function that is used to examine the effeteness of a strategy.
+EMa_Estate-Web-Manager,DeliTrbat/EMa_Estate-Web-Manager,https://github.com/DeliTrbat/EMa_Estate-Web-Manager,
+forex-algo,Blake-Arledge/forex-algo,https://github.com/Blake-Arledge/forex-algo,Data Science bootcamp project attempting to use previous technical indicators and a that has been expanded upon
+FastDPM_pytorch,FengNiMa/FastDPM_pytorch,https://github.com/FengNiMa/FastDPM_pytorch,"Official PyTorch implementation for FastDPM, a fast sampling algorithm for diffusion probabilistic models"
+Cryptocurrency-Momentum-Analysis,Nick-foote/Cryptocurrency-Momentum-Analysis,https://github.com/Nick-foote/Cryptocurrency-Momentum-Analysis,
+blog,tommyengstrom/blog,https://github.com/tommyengstrom/blog,
+Article.EMA.Java.SLF4J,Refinitiv-API-Samples/Article.EMA.Java.SLF4J,https://github.com/Refinitiv-API-Samples/Article.EMA.Java.SLF4J,This article will show how to integrate your EMA Java 1.3.x application with Log4j in a Maven way.
+FastPass,EmaRCB/FastPass,https://github.com/EmaRCB/FastPass,"FastPass is a bot developed for the instant messaging platform ""Discord"" that, by using commands in a text channel, delivers to Discord users, video game accounts with specific features that are on sale on the platform ""eldorado.gg"", generating the link where those accounts are hosted and sending it to users as a message via a text channel."
+tkinder1,rajared/tkinder1,https://github.com/rajared/tkinder1,
+ETMeta,thesethtruth/ETMeta,https://github.com/thesethtruth/ETMeta,A trial and error story about a boi trying to api the etm
+ema-pytorch,lucidrains/ema-pytorch,https://github.com/lucidrains/ema-pytorch,A simple way to keep track of an Exponential Moving Average (EMA) version of your pytorch model
+zenbot_412,sumdoll/zenbot_412,https://github.com/sumdoll/zenbot_412,zenbot 4.1.2 release
+shared_mutex,Emanem/shared_mutex,https://github.com/Emanem/shared_mutex,A C++11 shared mutex with high emphasis on performance
+joel,iucigrig/joel,https://github.com/iucigrig/joel,joel
+LCYS-EMA-Project,Jhines2022/LCYS-EMA-Project,https://github.com/Jhines2022/LCYS-EMA-Project,
+slegan,lutherrr/slegan,https://github.com/lutherrr/slegan,
+market_monitor,jaybutera/market_monitor,https://github.com/jaybutera/market_monitor,
+zen,pelayo90/zen,https://github.com/pelayo90/zen,
+EMA_strategy,anuntarin/EMA_strategy,https://github.com/anuntarin/EMA_strategy,
+measurement-prediction-framework,m-r-s/measurement-prediction-framework,https://github.com/m-r-s/measurement-prediction-framework,Essential Measurement Applications (EMA) integrated with scripts to simulate the measurements with FADE
+zenbot,tamirverthim/zenbot,https://github.com/tamirverthim/zenbot,
+BTCAutoTrader,zhengwang1990/BTCAutoTrader,https://github.com/zhengwang1990/BTCAutoTrader,Automatically trade BTC-USD on Coinbase Pro
+GekkoAlgs,k-kapital/GekkoAlgs,https://github.com/k-kapital/GekkoAlgs,
+AntStockBroker,anthonylai510/AntStockBroker,https://github.com/anthonylai510/AntStockBroker,AntStockBroker is a real-time stock broker system
+monitorbot,lxwang/monitorbot,https://github.com/lxwang/monitorbot,GDAX trading bot
+talipp,nardew/talipp,https://github.com/nardew/talipp,talipp - incremental technical analysis library for python
+VQ-VAE-Images,swasun/VQ-VAE-Images,https://github.com/swasun/VQ-VAE-Images,PyTorch implementation of VQ-VAE applied on CIFAR10 dataset
+ema_assistant,susom/ema_assistant,https://github.com/susom/ema_assistant,A REDCap EM to assist in running surveys that are part of an Ecological Momentary Assessment study
+crypto-market-samples,imwatsi/crypto-market-samples,https://github.com/imwatsi/crypto-market-samples,A collection of sample Python scripts that one can incorporate or build upon when developing customized systems for trading cryptocurrency
+testwise,aticio/testwise,https://github.com/aticio/testwise,A backtester (backtest helper) for testing my trading strategies.
+TradingViewAPI,aiThanet/TradingViewAPI,https://github.com/aiThanet/TradingViewAPI,
+bot,f13end/bot,https://github.com/f13end/bot,
+gantrade,gant85/gantrade,https://github.com/gant85/gantrade,GanTrade - Automated trading
+vdub,niconuto/vdub,https://github.com/niconuto/vdub,vdub
+adliya,faezs/adliya,https://github.com/faezs/adliya,
+MoodTracker-Tutorial,EmaApps/MoodTracker-Tutorial,https://github.com/EmaApps/MoodTracker-Tutorial,Ema tutorial: write a mood tracker
+myzbot,phucktum/myzbot,https://github.com/phucktum/myzbot,
+ma_strategy,namm2008/ma_strategy,https://github.com/namm2008/ma_strategy,Backtesting Moving average strategies.
+EMA-Exponential-Moving-Average-,Fei-Ho/EMA-Exponential-Moving-Average-,https://github.com/Fei-Ho/EMA-Exponential-Moving-Average-,Implementation of EMA in tensorflow2. It's very easy to use.
+sling,liseandr/sling,https://github.com/liseandr/sling,sking
+Ripstar,roscandra6/Ripstar,https://github.com/roscandra6/Ripstar,ripstar
+Atelie-da-Casa-Museu-Ema-Klabin,ema-klabin/Atelie-da-Casa-Museu-Ema-Klabin,https://github.com/ema-klabin/Atelie-da-Casa-Museu-Ema-Klabin,
+27-09-bot,spreadzp/27-09-bot,https://github.com/spreadzp/27-09-bot,
+DesarrolloWeb,EmaRCB/DesarrolloWeb,https://github.com/EmaRCB/DesarrolloWeb,
+test-heroku,MdAtikBhuiyan/test-heroku,https://github.com/MdAtikBhuiyan/test-heroku,
+Example.EMA.Java.ValueAddObjectsForEMA,Refinitiv-API-Samples/Example.EMA.Java.ValueAddObjectsForEMA,https://github.com/Refinitiv-API-Samples/Example.EMA.Java.ValueAddObjectsForEMA,Value-add objects for EMA
+bybit-backtest-python,10mohi6/bybit-backtest-python,https://github.com/10mohi6/bybit-backtest-python,bybit-backtest is a python library for backtest with bybit fx trade on Python 3.7 and above.

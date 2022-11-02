@@ -1,0 +1,4 @@
+repository.name,repository.full_name,repository.html_url,repository.description
+awarns-framework,GeoTecINIT/awarns-framework,https://github.com/GeoTecINIT/awarns-framework,"Easing the development of context-aware apps. Powered by our Task Dispatcher and Context Apis plugins. Modular by design, just use what you need"
+aglocl,gunnihinn/aglocl,https://github.com/gunnihinn/aglocl,An automatically generated list of curated lists
+Hangman,josephmoyer/Hangman,https://github.com/josephmoyer/Hangman,"A hangman game using the 6of12 word list, found at http://wordlist.sourceforge.net/, and included in the public domain by it's creator."
