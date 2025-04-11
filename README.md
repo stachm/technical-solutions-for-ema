@@ -1,6 +1,7 @@
 # Free Technical Solutions for Ecological Momentary Assessments
 
-<img role="button" tabindex="0" id="modal-560875076-trigger" aria-controls="modal-560875076" aria-expanded="false" class="doi-modal-trigger block m-0" src="https://zenodo.org/badge/DOI/10.5281/zenodo.15193944.svg" alt="DOI: 10.5281/zenodo.15193944">
+[![DOI](https://zenodo.org/badge/560875076.svg)](https://doi.org/10.5281/zenodo.15193943)
+
 
 This repo contains the retrieved data and all files to replicate the research on **EMA frameworks** that are *license-free* as well as hostable on-premise.
 
